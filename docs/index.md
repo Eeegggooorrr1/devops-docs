@@ -12,3 +12,7 @@
 4. GitHub Pages публикует артефакт сборки.
 
 Адрес будущего сайта: `https://Eeegggooorrr1.github.io/devops-docs/`.
+
+## Проверка CI
+
+[Контрольная ссылка](missing-page.md)
