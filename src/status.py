@@ -1,8 +1,9 @@
-﻿"""Формирование строки состояния."""
+"""Формирование строки состояния."""
 
 
 def format_status(version: str, deployed: bool) -> str:
     """Возвращает состояние публикации."""
+    details = "temporary"
     state = "deployed" if deployed else "draft"
     return f"{version}: {state}"
 
